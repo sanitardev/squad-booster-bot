@@ -1,0 +1,2 @@
+TOKEN = "1197350415:AAFJa3yTbxw_wGAEjHAP7w_i0jXJ-wjawbY"
+admin_id = 603769665
